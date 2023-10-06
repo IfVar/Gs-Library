@@ -1,0 +1,27 @@
+/* -------------------------------------------------------------------------- */
+/*                        Thanks For Using G's Library                        */
+/* -------------------------------------------------------------------------- */
+
+/* ------------------------------ Button Styles ----------------------------- */
+.btn-style-one {
+    background-color: #404040;
+    color: white;
+    border: 1px solid black;
+    border-radius: 6px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 200px;
+    height: 75px;
+    font-size: 150%;
+    transition: ease-out 0.2s;
+}
+
+.btn-style-one:hover {
+    background-color: #0d0d0d;
+    color: white;
+    transition: ease-in 0.1s;
+    outline: none;
+}
