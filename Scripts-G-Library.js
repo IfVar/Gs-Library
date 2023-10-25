@@ -5,17 +5,6 @@
 
 /* -------------------------- On Keypress Function -------------------------- */
 
-/* Keypress("Letter", function(){
-    // Script Goes Here
-    // And Here Too!
-});
-
-KeyPress("Letter", function(){
-    // FunctionNameHere();
-});
-
-*/
-
 function KeyPress(GetKey, GetScript) {
     document.addEventListener("keydown", function(event) {
         if (event.key === GetKey) {
