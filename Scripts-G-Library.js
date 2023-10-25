@@ -102,7 +102,7 @@ function ToggleClass(object, Class){
 /* ADD COOL STUFF LATER HERE (Link Functions) */
 
 function Goto(Link){
-    window.location.href(Link)
+    window.location.href = Link
 }
 
 function NewTab(Link){
