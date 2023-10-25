@@ -1,2 +1,5 @@
 # Gs-Library
-Temp Holder For G's Library Till I Can Find Somewhere To Store This
+G's Library is a website based library to make it easier to make a website that you desire!
+
+# [Click For Docs](https://google.com)
+
