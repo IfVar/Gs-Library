@@ -47,3 +47,11 @@ ChangeClass Function Usage:
 ToggleClass Function Usage:
     
     AddClass([variable-here], [class-here-in quotes])
+
+Goto Function Usage:
+
+    Goto([link-here-in-quotes])
+
+NewTab Function Usage:
+
+    NewTab([link-here-in-quotes])
